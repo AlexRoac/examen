@@ -1,0 +1,37 @@
+.card img{
+    height: 150px;
+    width: auto;
+}
+.card-title{
+    font-weight: 700;
+    color: black;
+}
+.card-text{
+    font-weight: 400;
+    color: black;
+}
+
+.card {
+  background-color: #FF7043;
+  border: 3px solid #FFD54F;
+}
+
+.card-rookie {
+  background-color: #B3E5FC;
+  border: 3px solid #4FC3F7;
+}
+
+.card-champion {
+  background-color: #C8E6C9;
+  border: 3px solid #66BB6A;
+}
+
+.card-ultimate {
+  background-color: #CE93D8;
+  border: 3px solid #BA68C8;
+}
+
+.card-mega {
+  background-color: #FFAB91;
+  border: 3px solid #FF7043;
+}
